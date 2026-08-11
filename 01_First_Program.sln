@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Prime_Or_Not_happy", "04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Prime_or_Not_Happy_ActualCode", "05_Prime_or_Not_Happy_ActualCode\05_Prime_or_Not_Happy_ActualCode.csproj", "{E39E55B8-2A8B-4756-A1B1-E49D495BF63C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Fibonacci_Attempt", "06_Fibonacci_Attempt\06_Fibonacci_Attempt.csproj", "{8D1C51AE-4B6F-4759-9947-3CDDB8EF549E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{E39E55B8-2A8B-4756-A1B1-E49D495BF63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E39E55B8-2A8B-4756-A1B1-E49D495BF63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E39E55B8-2A8B-4756-A1B1-E49D495BF63C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1C51AE-4B6F-4759-9947-3CDDB8EF549E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1C51AE-4B6F-4759-9947-3CDDB8EF549E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1C51AE-4B6F-4759-9947-3CDDB8EF549E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1C51AE-4B6F-4759-9947-3CDDB8EF549E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
