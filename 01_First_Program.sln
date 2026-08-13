@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Prime_or_Not_Happy_Actua
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Fibonacci_Attempt", "06_Fibonacci_Attempt\06_Fibonacci_Attempt.csproj", "{8D1C51AE-4B6F-4759-9947-3CDDB8EF549E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_Pattern_Problems", "07_Pattern_Problems", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TEST", "01_TEST\01_TEST.csproj", "{B467C2A4-5560-42F1-8633-5A18506E3C82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,9 +55,16 @@ Global
 		{8D1C51AE-4B6F-4759-9947-3CDDB8EF549E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D1C51AE-4B6F-4759-9947-3CDDB8EF549E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D1C51AE-4B6F-4759-9947-3CDDB8EF549E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B467C2A4-5560-42F1-8633-5A18506E3C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B467C2A4-5560-42F1-8633-5A18506E3C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B467C2A4-5560-42F1-8633-5A18506E3C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B467C2A4-5560-42F1-8633-5A18506E3C82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B467C2A4-5560-42F1-8633-5A18506E3C82} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {007B481F-91BB-4708-BA91-D66F3F677EBB}
