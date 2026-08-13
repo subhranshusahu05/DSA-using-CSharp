@@ -1,0 +1,12 @@
+Pattern Problems
+Part 1 -
+1. Nested Loops & print Solid Rectangle Star
+2. Print Number 10 pattern
+3. Pattern Number Pattern-1 (horizontal same)
+4. Number Pattern-2 (vertical same)
+5. Descending Number pattern
+6. Ascending Square Pattern
+7. Pattern of Alphabets
+8. ASCII value addition
+9. Ascending alphabet pattern
+10. Number Pattern (1 to 25)
