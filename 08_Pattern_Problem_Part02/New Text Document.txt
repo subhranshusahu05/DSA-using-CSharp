@@ -1,0 +1,9 @@
+Pattern Print
+(Part-2)
+1. Print right handed Triangle
+2. Ascending Number pattern on Triangle (Vertical Same)
+3. Number pattern (Horizonal Same)
+4. Reverse Number pattern
+5. Alphabet pattern (Horizonal Same)
+6. Reverse Star Triangle
+7. Reverse Number pattern (Horizonal Same, Vertical Same

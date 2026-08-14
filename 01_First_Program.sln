@@ -35,6 +35,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabit_print_ASC", "07_Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numberfrom1_25", "07_Pattern_Problems\NumberPattern\Numberfrom1_25\Numberfrom1_25.csproj", "{2018F77E-4067-4648-A52A-BDF62814FC1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightAngle", "08_Pattern_Problem_Part02\01_RightAngledTriangle\RightAngle\RightAngle.csproj", "{3DA1B660-EFE9-4EC5-87E7-39A65F7E0586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VertivalTrianglrNumber", "08_Pattern_Problem_Part02\02_AsendingNumberPatern_Triangle(verticalSame)\VertivalTrianglrNumber\VertivalTrianglrNumber.csproj", "{B9050CD5-D7CE-4366-B48D-7E0B90F7386F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asd_Horz_Pattern", "08_Pattern_Problem_Part02\03_AscNo_triangle_Horizontal\Asd_Horz_Pattern\Asd_Horz_Pattern.csproj", "{32CB0D84-EF72-4497-B584-3398C884F451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Number pattern", "08_Pattern_Problem_Part02\04_Reverse Number pattern\Reverse Number pattern\Reverse Number pattern.csproj", "{1442D413-2687-420A-BF9E-306F8FA0B7EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabet pattern (Horizonal Same)", "08_Pattern_Problem_Part02\05_Alphabet pattern (Horizonal Same)\Alphabet pattern (Horizonal Same)\Alphabet pattern (Horizonal Same).csproj", "{A9B07540-021C-4942-8A6C-4046476E6659}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +111,26 @@ Global
 		{2018F77E-4067-4648-A52A-BDF62814FC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2018F77E-4067-4648-A52A-BDF62814FC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2018F77E-4067-4648-A52A-BDF62814FC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA1B660-EFE9-4EC5-87E7-39A65F7E0586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA1B660-EFE9-4EC5-87E7-39A65F7E0586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA1B660-EFE9-4EC5-87E7-39A65F7E0586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA1B660-EFE9-4EC5-87E7-39A65F7E0586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9050CD5-D7CE-4366-B48D-7E0B90F7386F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9050CD5-D7CE-4366-B48D-7E0B90F7386F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9050CD5-D7CE-4366-B48D-7E0B90F7386F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9050CD5-D7CE-4366-B48D-7E0B90F7386F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CB0D84-EF72-4497-B584-3398C884F451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CB0D84-EF72-4497-B584-3398C884F451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CB0D84-EF72-4497-B584-3398C884F451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CB0D84-EF72-4497-B584-3398C884F451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1442D413-2687-420A-BF9E-306F8FA0B7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1442D413-2687-420A-BF9E-306F8FA0B7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1442D413-2687-420A-BF9E-306F8FA0B7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1442D413-2687-420A-BF9E-306F8FA0B7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B07540-021C-4942-8A6C-4046476E6659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B07540-021C-4942-8A6C-4046476E6659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B07540-021C-4942-8A6C-4046476E6659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B07540-021C-4942-8A6C-4046476E6659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
