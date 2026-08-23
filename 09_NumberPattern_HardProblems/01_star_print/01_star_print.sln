@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpha", "..\04_Alpha_patter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number__Left_Right", "..\05_Number\Number__Left_Right\Number__Left_Right.csproj", "{8F6CE544-69F3-43DF-8F5A-C16957C64DEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinary", "..\..\10_NumberSystem\01_DecimalToBinary\DecimalToBinary\DecimalToBinary.csproj", "{64C6DBBF-C2E1-4E62-9E91-AB04EE3DE254}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8F6CE544-69F3-43DF-8F5A-C16957C64DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F6CE544-69F3-43DF-8F5A-C16957C64DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F6CE544-69F3-43DF-8F5A-C16957C64DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C6DBBF-C2E1-4E62-9E91-AB04EE3DE254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C6DBBF-C2E1-4E62-9E91-AB04EE3DE254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C6DBBF-C2E1-4E62-9E91-AB04EE3DE254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C6DBBF-C2E1-4E62-9E91-AB04EE3DE254}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
