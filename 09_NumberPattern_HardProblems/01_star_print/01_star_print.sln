@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\03_number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpha", "..\04_Alpha_pattern\Alpha\Alpha.csproj", "{39982ADD-F901-41B7-85ED-701E30BF4EAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number__Left_Right", "..\05_Number\Number__Left_Right\Number__Left_Right.csproj", "{8F6CE544-69F3-43DF-8F5A-C16957C64DEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{39982ADD-F901-41B7-85ED-701E30BF4EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39982ADD-F901-41B7-85ED-701E30BF4EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39982ADD-F901-41B7-85ED-701E30BF4EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6CE544-69F3-43DF-8F5A-C16957C64DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6CE544-69F3-43DF-8F5A-C16957C64DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6CE544-69F3-43DF-8F5A-C16957C64DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6CE544-69F3-43DF-8F5A-C16957C64DEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
