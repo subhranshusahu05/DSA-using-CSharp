@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "258. Add Digits", "258. Add
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{59A4AAA5-3897-4405-A447-E11F16B0AC14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap_year_question", "..\..\02__2. Check a year is Leap Year or not\Leap_year_question\Leap_year_question.csproj", "{F703E0CC-C64B-4AE3-B24B-D9466D192502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap_year_Function", "..\..\02__2. Check a year is Leap Year or not\Leap_year_Function\Leap_year_Function.csproj", "{E9312BEE-9CA5-481A-9839-655E39F7084B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{59A4AAA5-3897-4405-A447-E11F16B0AC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59A4AAA5-3897-4405-A447-E11F16B0AC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59A4AAA5-3897-4405-A447-E11F16B0AC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F703E0CC-C64B-4AE3-B24B-D9466D192502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F703E0CC-C64B-4AE3-B24B-D9466D192502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F703E0CC-C64B-4AE3-B24B-D9466D192502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F703E0CC-C64B-4AE3-B24B-D9466D192502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9312BEE-9CA5-481A-9839-655E39F7084B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9312BEE-9CA5-481A-9839-655E39F7084B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9312BEE-9CA5-481A-9839-655E39F7084B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9312BEE-9CA5-481A-9839-655E39F7084B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
