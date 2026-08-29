@@ -1,0 +1,7 @@
+258. Add digits (single digit)
+2. Check a year is Leap Year or not
+7. Reverse Integers
+(Runtime Integer OverFlow Error)
+231. Power of 2
+69. Square root of x
+9. number is Palindrome or not
